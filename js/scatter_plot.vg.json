@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "CO2 Emissions & Population",
+  "title": "Internet Users vs Population",
   "width": 800,
   "height": 600,
-  "description": "A scatterplot showing horsepower and miles per gallons for various cars.",
+  "description": "A scatterplot showing the amount of internet users and population in countries.",
   "data": {
       "url": "https://raw.githubusercontent.com/qwan0066/FIT3179-week10-homework/main/data/all_csv_sorted.csv"
   },
